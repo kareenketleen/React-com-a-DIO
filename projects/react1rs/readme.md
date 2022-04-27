@@ -2,4 +2,5 @@
 
 #### TODO
 
-- [x] INICIALIZAR PROJETO REACT
+- [x] INICIALIZAR PROJETO REACT.
+- [ ] Primeiro componente.
