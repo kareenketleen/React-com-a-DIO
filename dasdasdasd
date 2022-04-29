@@ -1,0 +1,41 @@
+[33mcommit efefd26cb7713781f8d438be93394f857d37f58c[m[33m ([m[1;36mHEAD -> [m[1;32mprimeiro-componente[m[33m, [m[1;31morigin/primeiro-componente[m[33m, [m[1;32mchamadas-http[m[33m)[m
+Author: Kareen Castro <kareen.ketleen@gmail.com>
+Date:   Wed Apr 27 03:30:52 2022 -0400
+
+    perf(propriedades): permanência do estado da componente e fast refresh no webpack
+
+[33mcommit e7dda5abe21b5cff0884829128a487750ed8e2e8[m
+Author: Kareen Castro <kareen.ketleen@gmail.com>
+Date:   Wed Apr 27 01:50:37 2022 -0400
+
+    docs (readme): atualizacao.
+
+[33mcommit 481770311655b0af4a573d85521a914016f4edf5[m[33m ([m[1;31morigin/react-init[m[33m, [m[1;32mreact-init[m[33m)[m
+Author: Kareen Castro <kareen.ketleen@gmail.com>
+Date:   Wed Apr 27 01:47:17 2022 -0400
+
+    feat(react init): finalizacao do projeto base.
+
+[33mcommit 23ff953228243f704f547493b85ec4772e3246db[m
+Author: Kareen Castro <kareen.ketleen@gmail.com>
+Date:   Tue Apr 26 20:54:24 2022 -0400
+
+    fix(react init): deletado projeto antigo. Iniciando um novo projeto.
+
+[33mcommit 5a4d37ab73b1c0d986adad41935a6714e7cae4f6[m
+Author: Kareen Castro <kareen.ketleen@gmail.com>
+Date:   Tue Apr 26 17:56:21 2022 -0400
+
+    feat (react init): criacao do projeto basico em react.
+
+[33mcommit 355d94b5655526d36f0b842dc30b4ec50cb1df37[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/develop[m[33m, [m[1;32mmaster[m[33m, [m[1;32mdevelop[m[33m)[m
+Author: Kareen Castro <kareen.ketleen@gmail.com>
+Date:   Tue Apr 26 15:40:50 2022 -0400
+
+    git init
+
+[33mcommit 4e946f1701112dd0d875845deb2a47edefde01cc[m
+Author: Kareen Castro <kareen.ketleen@gmail.com>
+Date:   Tue Apr 26 15:21:02 2022 -0400
+
+    first commit
